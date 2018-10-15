@@ -7,3 +7,5 @@
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/2" target="_blank">2.Vue环境搭建</a>
 
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/3" target="_blank">3.Vue项目结构</a>
+
+<a href="https://github.com/scnu-kevinkong/Vue.js-/issues/4" target="_blank">4.Vue中的生命周期</a>

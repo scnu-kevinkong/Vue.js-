@@ -11,3 +11,5 @@
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/4" target="_blank">4.Vue中的生命周期</a>
 
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/5" target="_blank">5.Vue中的数据绑定</a>
+
+<a href="https://github.com/scnu-kevinkong/Vue.js-/issues/6" target="_blank">6.Vue中的方法和指令</a>

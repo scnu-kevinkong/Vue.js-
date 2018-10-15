@@ -25,3 +25,5 @@
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/12" target="_blank">11.Vue中的插槽</a>
 
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/13" target="_blank">12.Vue中动态组件与异步组件</a>
+
+<a href="https://github.com/scnu-kevinkong/Vue.js-/issues/14" target="_blank">13.Vue处理边界情况</a>

@@ -17,3 +17,5 @@
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/7" target="_blank">7.Vue组件注册与使用</a>
 
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/8" target="_blank">8.Vue中的过滤器</a>
+
+<a href="https://github.com/scnu-kevinkong/Vue.js-/issues/8" target="_blank">9.Vue组件传值</a>

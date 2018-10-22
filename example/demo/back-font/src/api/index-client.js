@@ -33,7 +33,7 @@ function checkStatus (response) {
     return {
       data: {
         code: -404,
-        message: response.data.msg || response.data.errormsg || response.data.errorMsg,
+        message: response.data.message || response.data.errormsg || response.data.errorMsg,
         data: ''
       }
     }
@@ -55,7 +55,7 @@ function checkCode (response) {
     setTimeout(() => {
       fullScreenLoading.close()
     }, 500)
-    showMessage(response.data.msg, 'error', true)
+    showMessage(response.data.message, 'error', true)
     return
   }
   setTimeout(() => {

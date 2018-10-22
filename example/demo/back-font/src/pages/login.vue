@@ -45,6 +45,8 @@
 import { Container, Header, Main, Row, Col, Input, Button } from 'element-ui'
 import { mapActions } from 'vuex'
 import Vue from 'vue'
+import VueWebsocket from 'vue-websocket'
+Vue.use(VueWebsocket, 'ws://121.40.165.18:8800')
 Vue.use(Container)
 Vue.use(Header)
 Vue.use(Main)

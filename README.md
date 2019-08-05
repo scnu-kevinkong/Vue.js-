@@ -7,6 +7,8 @@
 
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/20" target="_blank">Vue-cli 图形化建项目 </a>
 
+<a href="https://github.com/scnu-kevinkong/Vue.js-/issues/21" target="_blank">vue.config.js配置 </a>
+
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/19" target="_blank">vue-router两种模式:hash模式和history模式</a>
 
 ## Vue-cli 2.0搭建项目

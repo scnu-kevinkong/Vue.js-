@@ -5,6 +5,8 @@
 ## Vue-cli 3.0搭建项目
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/18" target="_blank">vue-cli 3.0教程 (一) </a>
 
+<a href="https://github.com/scnu-kevinkong/Vue.js-/issues/20" target="_blank">Vue-cli 图形化建项目 </a>
+
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/19" target="_blank">vue-router两种模式:hash模式和history模式</a>
 
 ## Vue-cli 2.0搭建项目

@@ -9,6 +9,8 @@
 
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/21" target="_blank">vue.config.js配置 </a>
 
+<a href="https://github.com/scnu-kevinkong/Vue.js-/issues/22" target="_blank">配置postcss </a>
+
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/19" target="_blank">vue-router两种模式:hash模式和history模式</a>
 
 ## Vue-cli 2.0搭建项目

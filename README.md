@@ -11,6 +11,8 @@
 
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/22" target="_blank">配置postcss </a>
 
+<a href="https://github.com/scnu-kevinkong/Vue.js-/issues/23" target="_blank">引入移动端UI组件库vant </a>
+
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/19" target="_blank">vue-router两种模式:hash模式和history模式</a>
 
 ## Vue-cli 2.0搭建项目

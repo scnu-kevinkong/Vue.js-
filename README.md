@@ -1,6 +1,8 @@
 # Vue.js基础教程
 
 > 因为个人的喜好和工作的需要,一直想写这样的系列教程，今天如愿以偿，但是我是第一次写，有什么错误，和指教的地方，欢迎吐槽，谢谢!
+## 前端知识
+<a href="https://github.com/scnu-kevinkong/Vue.js-/issues/25" target="_blank">Vue的ESLint配置 </a>
 
 ## Vue-cli 3.0搭建项目
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/18" target="_blank">vue-cli 3.0教程 (一) </a>

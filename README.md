@@ -4,6 +4,7 @@
 ## 前端知识
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/25" target="_blank">Vue的ESLint配置 </a>
 
+<a href="https://github.com/scnu-kevinkong/Vue.js-/issues/26" target="_blank">Cookie、session和localStorage、以及sessionStorage </a>
 ## Vue-cli 3.0搭建项目
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/18" target="_blank">vue-cli 3.0教程 (一) </a>
 

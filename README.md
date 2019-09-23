@@ -4,6 +4,8 @@
 ## 前端知识
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/27" target="_blank">浏览器访问网站的过程</a>
 
+<a href="https://github.com/scnu-kevinkong/Vue.js-/issues/28" target="_blank">浏览器的渲染流程</a>
+
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/25" target="_blank">Vue的ESLint配置 </a>
 
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/26" target="_blank">Cookie、session和localStorage、以及sessionStorage </a>

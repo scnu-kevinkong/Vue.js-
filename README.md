@@ -16,6 +16,8 @@
 
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/24" target="_blank">vue-router配置路由详情 </a>
 
+<a href="https://github.com/scnu-kevinkong/Vue.js-/issues/29" target="_blank">Vuex基本用法 </a>
+
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/21" target="_blank">vue.config.js配置 </a>
 
 <a href="https://github.com/scnu-kevinkong/Vue.js-/issues/22" target="_blank">配置postcss </a>

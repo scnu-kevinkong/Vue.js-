@@ -1,11 +1,7 @@
 <template>
   <div id="app">
-    <div v-if="loadingShow">
-      <van-loading size="24px" vertical>加载中...</van-loading>
-      <van-overlay
-        :show="loadingShow"
-        class-name="overlay"
-      />
+    <div v-if="loadingShow" class="loading">
+      <van-loading size="36px" vertical>加载中...</van-loading>
     </div>
     <router-view/>
   </div>
@@ -13,9 +9,8 @@
 <script>
 import { mapState } from 'vuex'
 import Vue from 'vue'
-import { Loading, Overlay } from 'vant'
+import { Loading } from 'vant'
 Vue.use(Loading)
-Vue.use(Overlay)
 export default {
   computed: {
     ...mapState({
@@ -28,4 +23,16 @@ export default {
 }
 </script>
 <style lang="less">
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,.7);
+  z-index: 999;
+}
 </style>

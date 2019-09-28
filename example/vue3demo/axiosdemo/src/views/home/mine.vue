@@ -47,7 +47,7 @@ export default {
         console.log('​getMatches -> res', res)
         this.$store.commit('global/setLoading', { flag: false })
       } catch (error) {
-        // this.$store.commit('global/setLoading', { flag: false })
+        this.$store.commit('global/setLoading', { flag: false })
         console.log('​catch -> e', error)
         const { code, msg } = error
         this.$dialog.alert({

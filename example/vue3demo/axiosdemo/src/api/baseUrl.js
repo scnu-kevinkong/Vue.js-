@@ -8,7 +8,7 @@ switch (process.env.NODE_ENV) {
     baseUrl = 'https://pre-server.myproject.cn' // 预上线环境url
     break
   case 'production':
-    baseUrl = 'https://api.myproject.cn' // 生产环境url
+    baseUrl = 'https://icourses.millcloud.cn/' // 生产环境url
     break
 }
 

@@ -29,7 +29,7 @@ export default {
     }
   },
   mounted () {
-    this.isLogin = JSON.parse(localStorage.login)
+    this.isLogin = localStorage.login ? JSON.parse(localStorage.login) : false
   }
 }
 </script>

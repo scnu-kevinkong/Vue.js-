@@ -48,7 +48,7 @@ const router = new Router({
 // 导航前守卫(跳转前)
 router.beforeEach((to, from, next) => {
   // to: 表示要跳转的页面。from:表示从哪个页面来
-  let login_in = JSON.parse(localStorage.login) // 是否已登录
+  let login_in = localStorage.login ? JSON.parse(localStorage.login) : false // 是否已登录
   let require = to.matched.some(function (item) { // 是否需要登录
     return item.meta.isLogin
   })
